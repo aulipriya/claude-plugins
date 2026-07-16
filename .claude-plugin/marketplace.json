@@ -1,0 +1,22 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-marketplace.json",
+  "name": "aulipriya-plugins",
+  "owner": {
+    "name": "aulipriya",
+    "email": "aulipriyapromona@gmail.com"
+  },
+  "description": "Personal collection of Claude Code plugins.",
+  "plugins": [
+    {
+      "name": "google-docstring",
+      "source": "./plugins/google-docstring",
+      "description": "Generate and repair Google-style Python docstrings with caller-grep type inference and a --check surgical-fix mode.",
+      "version": "1.0.0",
+      "author": { "name": "aulipriya" },
+      "homepage": "https://github.com/aulipriya/claude-plugins",
+      "repository": "https://github.com/aulipriya/claude-plugins",
+      "license": "MIT",
+      "keywords": ["python", "docstring", "google-style", "documentation"]
+    }
+  ]
+}
