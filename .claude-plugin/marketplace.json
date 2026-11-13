@@ -17,6 +17,17 @@
       "repository": "https://github.com/aulipriya/claude-plugins",
       "license": "MIT",
       "keywords": ["python", "docstring", "google-style", "documentation"]
+    },
+    {
+      "name": "eod-summary",
+      "source": "./plugins/eod-summary",
+      "description": "End-of-day work summary published as a Google Doc, built from your git activity and Claude Code session transcripts, with optional Chrome history and Google Drive layers.",
+      "version": "1.0.0",
+      "author": { "name": "aulipriya" },
+      "homepage": "https://github.com/aulipriya/claude-plugins",
+      "repository": "https://github.com/aulipriya/claude-plugins",
+      "license": "MIT",
+      "keywords": ["end-of-day", "summary", "standup", "worklog", "google-docs"]
     }
   ]
 }

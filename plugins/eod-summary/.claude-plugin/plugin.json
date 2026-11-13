@@ -1,0 +1,11 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin.json",
+  "name": "eod-summary",
+  "version": "1.0.0",
+  "description": "Write an end-of-day work summary and publish it as a Google Doc. Reconstructs the day from git activity across your repos and your Claude Code session transcripts, plus optional Chrome history and a Google Drive folder — so exploration and decisions that left no commit still make the report, written as what you achieved rather than what the assistant did.",
+  "author": { "name": "aulipriya", "email": "aulipriyapromona@gmail.com" },
+  "homepage": "https://github.com/aulipriya/claude-plugins",
+  "repository": "https://github.com/aulipriya/claude-plugins",
+  "license": "MIT",
+  "keywords": ["end-of-day", "summary", "standup", "worklog", "git", "google-docs", "productivity"]
+}
